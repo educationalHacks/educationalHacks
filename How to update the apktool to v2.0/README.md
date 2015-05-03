@@ -1,7 +1,6 @@
 ##How to update your apktool to v2.0
 ###Solving brut.androlib.AndrolibException
-**Note:** This installation is for Mac OS X. 
-This guide is targeted towards solving the following error:
+**Note:** This guide is for Mac OS X and targeted towards solving the following error.
 ```
 I: Baksmaling…
 I: Loading resource table...
