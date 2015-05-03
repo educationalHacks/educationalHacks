@@ -1,3 +1,4 @@
+#Use adb backup to extract apk file from a non rooted device.
 * In order to pull an apk from a non rooted device you are going to need the following tools
 	- Android Debug Bridge (adb) //In near future I'll writeup a guide on how to setup adb on Ubuntu.
 	- Linux operating system such as Ubuntu //I'm using Kail Linux VM.
