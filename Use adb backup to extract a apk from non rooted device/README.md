@@ -4,7 +4,7 @@
 	- An Android device //I'm using Nexus 5.
 	- Package name of the apk your try to extract. 
 	
-*Important Note:* This process does not work if you encrypted your android device.
+**Important Note:** This process does not work if you encrypted your android device.
 * One quick and easy way to find out the package name is by navigating to Google Play Store 
 in a web browser and search for your app. Copy the URL of that page and paste it some place 
 where you can read it clearly. The value of the id parameter is your package name.
