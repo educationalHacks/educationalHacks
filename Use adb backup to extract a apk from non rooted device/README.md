@@ -19,7 +19,9 @@ Command1: `adb backup -apk -nosystem packageNameOfTheDesiredAPK`
 
 * Aprove the backup from you device by selecting "Back up my data". After the process finishes you will
 have a .ab file in your current working directory. 
+
 Command2: `dd if=mybackup.ab bs=24 skip=1|openssl zlib -d > mybackup.tar` //This command convert the .ab file into a .tar file.
+
 Command3: `tar xvf mybackup.tar` //Extracts the .tar file to your current working directory.
 
 * Browse through the extracted tar files and folders to find the apk.
