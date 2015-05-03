@@ -32,6 +32,6 @@ Caused by: java.io.IOException: Expected: 0x001c0001, got: 0x00000000
 	- Command: `chmod +x apktool`
 
 * **Important step:** If you had an older version of apktool installed then please navigate to 
-this directory (/Users/you_name/Library/apktool/framework/) and delete the "1.apk" file.
+this directory `/Users/you_name/Library/apktool/framework/` and delete the "1.apk" file.
 
 * Try using the apktool to make sure everything is working.
