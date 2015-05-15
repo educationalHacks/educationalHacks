@@ -1,2 +1,3 @@
 # educationalHacks
-A collection of my projects. //More coming soon...
+A small collection of my projects.
+*More coming soon...*
