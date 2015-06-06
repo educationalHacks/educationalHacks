@@ -1,1 +1,1 @@
-Class description here
+Course description here
